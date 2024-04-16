@@ -140,9 +140,10 @@ Publish the website in the LocalHost.
 
 
 
+
+
+
 ## OUTPUT:
-
-
 ![Screenshot 2024-04-16 201249](https://github.com/Mahalakshmi230/cover/assets/149365324/d54d6fca-92d0-42a3-aaf4-fa0ca6f0b30f)
 
 ## RESULT:
